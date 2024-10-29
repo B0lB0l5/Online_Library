@@ -13,13 +13,3 @@ Welcome to the Online Library project! This is a web application designed to man
 ## Technologies Used
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB with Mongoose
-- **Frontend**: HTML, CSS, JavaScript (if applicable)
-- **Version Control**: Git and GitHub
-
-## Installation
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/B0lB0l5/Online_Library.git
-   cd Online_Library
